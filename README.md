@@ -14,4 +14,4 @@ I'm a Developer and Digital Marketer
 
 ⚡ Fun fact: My first dabble with technology has been building and fixing custom computers at a young age.
 
-📷 instagram | 👔 linkedin
+📷 <a href="https://www.instagram.com/reyjoshuagaona/">Instagram</a>| 👔 <a href="https://www.linkedin.com/in/joshgaona/">Linkedin</a>
