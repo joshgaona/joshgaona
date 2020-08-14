@@ -1,5 +1,4 @@
 # joshgaona
-Personal profile readme
 
 Hi, I'm Josh. 👋
 
