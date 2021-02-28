@@ -4,9 +4,11 @@ Hi, I'm Josh. 👋
 
 I'm a Developer and Digital Marketer
 
-🔭 I’m currently working on Scrimba's Frontend Developer Career Path
+Certification: Scrimba's Frontend Developer Career Path
 
-🌱 I’m currently learning Advanced React, Apollo, Babel, Grunt and GraphQL
+🔭 I’m currently working on Codecademy's Full-Stack Enginner Certification
+
+🌱 I’m currently learning Ruby on Rails and React
 
 💬 Ask me about React JS, Web Dev, UI Dev, Product-Market Fit, Growth Hacking, Google Ads, Facebook Ads
 
